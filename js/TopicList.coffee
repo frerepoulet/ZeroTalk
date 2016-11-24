@@ -228,9 +228,9 @@ class TopicList extends Class
 			# Show loading / empty forum bigmessage
 			if topics.length == 0
 				if Page.site_info.bad_files
-					$(".message-big").text("Initial sync in progress...")
+					$(".message-big").text("Initialisation...")
 				else
-					$(".message-big").text("Welcome to your own forum! :)")
+					$(".message-big").text("Nouveau singe! :)")
 					$(".topic-new-link").trigger("click")
 				$(".message-big").css("display", "block").cssLater("opacity", 1)
 			else

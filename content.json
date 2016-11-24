@@ -4,6 +4,10 @@
  "cloneable": false,
  "description": "Decentralized forum with ZeroID",
  "files": {
+  "all.js": {
+   "sha512": "3e313ca41b0e1ed7befcdd7171a141b0062a5df5c40020d090da36a0398ffe4d",
+   "size": 227525
+  },
   "css/all.css": {
    "sha512": "1baeab2b22dca59d434800b5ffcbcf470520dc7f2eee7ee4a0a7ebc7e87468ef",
    "size": 163041
@@ -33,8 +37,8 @@
    "size": 310
   },
   "index.html": {
-   "sha512": "ffed11fcc070a29487f987fa221b09168d517b60426735ad0627bba827513e1a",
-   "size": 7769
+   "sha512": "62a73b5e2eaff78b2e6ee9d5e788775351602a1be6938521269a04dbe019c109",
+   "size": 7779
   },
   "js/all.js": {
    "sha512": "d52ed295f5849693ad2fa04396e2510936b6d1b8abcfdb4570f786e2e92f8bab",
@@ -45,8 +49,8 @@
    "size": 1150
   },
   "languages/fr.json": {
-   "sha512": "60e12b242146d8b3991b219796e277cb3455bcf72a9b472850a7c0cd7dd5c35e",
-   "size": 1189
+   "sha512": "60f27e09e62eec839da05300a01e27bc7117252d6638eaaf8d09db78e2d1a4a4",
+   "size": 1162
   },
   "languages/hu.json": {
    "sha512": "9a8e6178a4a30a5879173529934fcc6f68bf32f10c27d08f0d87d28f970822b1",
@@ -73,23 +77,26 @@
   }
  },
  "inner_path": "content.json",
- "modified": 1479955009.262262,
+ "modified": 1480113148.653296,
  "postmessage_nonce_security": true,
  "settings": {
   "admin": "frerepoulet",
   "admin_href": "http://127.0.0.1:43110/Mail.ZeroNetwork.bit/?to=frerepoulet",
-  "topic_sticky_uris": []
+  "topic_sticky_uris": [
+   "2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj",
+   "8_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj"
+  ]
  },
  "sign": [
-  20758783271719263222808451113860830000099608077567943865583940883434741330892,
-  5205469565194208315537308990058517340864365757107341254692470435040590217313
+  54269666003798780288848964497165164449160336215965100930221348235058582389421,
+  71106553439331129340063308268368358976231940892545496267946997513561109655209
  ],
  "signers_sign": "G7pw7dGecEFSfgT4oqBoCl1ZpGOUFEKYIBNIionipcstCVj047pVSTwK39n6gI/XZMqjVNNkl8PZ81le1nzc/Sk=",
  "signs": {
-  "1JX3NHE2EHiUhiEi3JtMkYtsSqdW1rDqJD": "GxlT/Ck896Ky8dGh8dS3ytaxyTD6yFDrERLUiB5erJPA6H2flj74+fr1tUphyljmim20hLOI5i+RZmHBN/OE9iE="
+  "1JX3NHE2EHiUhiEi3JtMkYtsSqdW1rDqJD": "HJzpSHXczlllv97n5Mz02DrZbUrPiPmk/3vD3op7QRlpLaxFiBssuZ+3hBNe7oB1Atp+WQ5khtlnKCg7EbYyVhM="
  },
  "signs_required": 1,
- "title": "Bloc Coq Forums",
+ "title": "Nouveau singe",
  "translate": [
   "index.html",
   "js/all.js"
