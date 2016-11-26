@@ -1,6 +1,6 @@
 
 
-/* ---- /1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT/css/Follow.css ---- */
+/* ---- /1JX3NHE2EHiUhiEi3JtMkYtsSqdW1rDqJD/css/Follow.css ---- */
 
 
 .icon-feed {
@@ -38,7 +38,7 @@
 .feed-follow-show:hover { border: 1px solid white }
 
 
-/* ---- /1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT/css/InlineEditor.css ---- */
+/* ---- /1JX3NHE2EHiUhiEi3JtMkYtsSqdW1rDqJD/css/InlineEditor.css ---- */
 
 
 /* Editable */
@@ -85,7 +85,7 @@
 }
 
 
-/* ---- /1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT/css/Menu.css ---- */
+/* ---- /1JX3NHE2EHiUhiEi3JtMkYtsSqdW1rDqJD/css/Menu.css ---- */
 
 
 .menu {
@@ -105,7 +105,7 @@
 }
 
 
-/* ---- /1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT/css/ZeroTalk.css ---- */
+/* ---- /1JX3NHE2EHiUhiEi3JtMkYtsSqdW1rDqJD/css/ZeroTalk.css ---- */
 
 
 body { background-color: #F5F5F5; color: #333332; margin: 10px; padding: 0px; font-family: 'Roboto', sans-serif; height: 15000px; overflow: hidden; -webkit-backface-visibility: hidden; -moz-backface-visibility: hidden; -o-backface-visibility: hidden; -ms-backface-visibility: hidden; backface-visibility: hidden ; }
@@ -181,9 +181,6 @@ input.text:focus, textarea:focus { border-color: #5FC0EA; outline: none; backgro
 	color: rgba(0,0,0,0); background: #999 url(../img/loading.gif) no-repeat center center;
 	-webkit-transition: all 0.5s ease-out ; -moz-transition: all 0.5s ease-out ; -o-transition: all 0.5s ease-out ; -ms-transition: all 0.5s ease-out ; transition: all 0.5s ease-out  ; pointer-events: none; border-bottom: 2px solid #666
 }
-
-.topmenu { font-size: 13px; margin-bottom: 14px; background-color: #EEE; padding: 5px; margin-left: -10px; margin-top: -10px; color: #666; }
-.topmenu a { color: #333 }
 
 /* Head */
 .head { float: left; padding-right: 10px; margin-bottom: 10px }
@@ -353,7 +350,8 @@ input.text:focus, textarea:focus { border-color: #5FC0EA; outline: none; backgro
 .topics-more:active, .comments-more:active { position: relative; top: 1px }
 
 
-/* ---- /1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT/css/fonts.css ---- */
+
+/* ---- /1JX3NHE2EHiUhiEi3JtMkYtsSqdW1rDqJD/css/fonts.css ---- */
 
 
 /* Base64 encoder: http://www.motobit.com/util/base64-decoder-encoder.asp */
@@ -398,7 +396,7 @@ input.text:focus, textarea:focus { border-color: #5FC0EA; outline: none; backgro
 
 
 
-/* ---- /1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT/css/icons.css ---- */
+/* ---- /1JX3NHE2EHiUhiEi3JtMkYtsSqdW1rDqJD/css/icons.css ---- */
 
 
 .icon { display: inline-block; vertical-align: text-bottom; background-repeat: no-repeat; }
